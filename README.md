@@ -30,7 +30,7 @@ The Hospital Management System is designed to streamline the operations of a hos
 3. Run the main application file.
 
 ## Dependencies
-- This project requires [Python](https://www.python.org/) and [MySQL](https://www.mysql.com/) to be installed on your system.
+- This project requires [Microsoft SQL Server] to be installed on your system.
 
 ## Contribution
 - Contributions are welcome. Please fork the repository and create a pull request with your changes.
