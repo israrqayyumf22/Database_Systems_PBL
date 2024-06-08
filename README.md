@@ -30,7 +30,7 @@ The Hospital Management System is designed to streamline the operations of a hos
 3. Run the main application file.
 
 ## Dependencies
-- This project requires [Microsoft SQL Server] to be installed on your system.
+- This project requires [Microsoft SQL Server](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.microsoft.com/en-us/sql-server/sql-server-downloads&ved=2ahUKEwjkqdqUp8uGAxUZ_7sIHQqQB1cQFnoECAYQAQ&usg=AOvVaw0d74lgRcnfX6ZThGwL_ED6) to be installed on your system.
 
 ## Contribution
 - Contributions are welcome. Please fork the repository and create a pull request with your changes.
