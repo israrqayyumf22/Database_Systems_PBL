@@ -19,10 +19,14 @@ The Hospital Management System is designed to streamline the operations of a hos
 - Session: Spring-24
 - Due Date: 10/06/2024
 
+## Entity-Relationship Diagram (ERD)
+![ERD](ERD%20Final.png)
+
 ## File Structure
 - `src/`: Contains the source code of the Hospital Management System.
 - `docs/`: Documentation related to the project.
 - `README.md`: This file, containing information about the project.
+- `ERD Final.png`: Entity-Relationship Diagram of the Hospital Management System.
 
 ## How to Run
 1. Clone this repository to your local machine.
@@ -30,7 +34,7 @@ The Hospital Management System is designed to streamline the operations of a hos
 3. Run the main application file.
 
 ## Dependencies
-- This project requires [Microsoft SQL Server](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.microsoft.com/en-us/sql-server/sql-server-downloads&ved=2ahUKEwjkqdqUp8uGAxUZ_7sIHQqQB1cQFnoECAYQAQ&usg=AOvVaw0d74lgRcnfX6ZThGwL_ED6) to be installed on your system.
+- This project requires [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) to be installed on your system.
 
 ## Contribution
 - Contributions are welcome. Please fork the repository and create a pull request with your changes.
